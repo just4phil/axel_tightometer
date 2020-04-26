@@ -1,0 +1,33 @@
+
+pages.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wand
+  rotate: false
+  xy: 1, 28
+  size: 50, 217
+  orig: 50, 217
+  offset: 0, 0
+  index: -1
+wand_kaputt
+  rotate: false
+  xy: 53, 28
+  size: 50, 217
+  orig: 50, 217
+  offset: 0, 0
+  index: -1
+ferrari
+  rotate: false
+  xy: 1, 1
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+ferrari_crash
+  rotate: false
+  xy: 105, 220
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
